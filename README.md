@@ -49,10 +49,26 @@ En esta opcion podremos seleccionar una linea de nuestro archivo para borrar sol
 ```
 
 ## TODOS❌
-En esta opcion borraremos **TODOS** los dispositivos guardados anteriormente
+En esta opcion borraremos **TODOS** los dispositivos guardados anteriormente para seleccionarla pondremos **2** y le daremos al **ENTER**
+```bash
+[+] ¿Quiere borrar seleccionar linea, TODO, Copias o Salir? [1/2/3/4]
+1) Seleccionar linea
+2) TODOS
+3) Copias
+4) Salir
+#? 2
+```
 
 ## Copias📄
-En esta opcion podremos crear una copia de seguridad de nuestros dispositivos Guardos anteriormente
+En esta opcion podremos crear una copia de seguridad de nuestros dispositivos Guardos anteriormente para seleccionarla pondremos **3** y le daremos al **ENTER**
+```bash
+[+] ¿Quiere borrar seleccionar linea, TODO, Copias o Salir? [1/2/3/4]
+1) Seleccionar linea
+2) TODOS
+3) Copias
+4) Salir
+#? 3
+```
 
 ## Autores ✒️
 - Alvar Yoel Ordoñez Gamez
