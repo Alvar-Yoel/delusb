@@ -53,3 +53,6 @@ En esta opcion borraremos **TODOS** los dispositivos guardados anteriormente
 
 ## Copias
 En esta opcion podremos crear una copia de seguridad de nuestros dispositivos Guardos anteriormente
+
+## Autores ✒️
+- Alvar Yoel Ordoñez Gamez
