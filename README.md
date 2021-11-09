@@ -48,6 +48,8 @@ En esta opcion podremos _seleccionar una linea_ de nuestro archivo para borrar s
 #? 1
 ```
 
+Ahora nos abrira los dispositivos guardados y pondremos el numero de linea a borrar
+
 ## TODOS❌
 En esta opcion borraremos **TODOS** los dispositivos guardados anteriormente para seleccionarla pondremos **2** y le daremos al **ENTER**
 ```bash
@@ -59,6 +61,8 @@ En esta opcion borraremos **TODOS** los dispositivos guardados anteriormente par
 #? 2
 ```
 
+Esperaremos unos segundos y ya tendremos los dispositivos borrados
+
 ## Copias📄
 En esta opcion podremos crear una _copia de seguridad_ de nuestros dispositivos Guardos anteriormente para seleccionarla pondremos **3** y le daremos al **ENTER**
 ```bash
@@ -68,6 +72,15 @@ En esta opcion podremos crear una _copia de seguridad_ de nuestros dispositivos 
 3) Copias
 4) Salir
 #? 3
+```
+
+Ahora nos dara la opcion de _Hacer una copia de seguridad_ o _Restaurar una copia de seguridad_ 
+```bash
+[+] Acabas de entrar a Copias de Seguridad, me tienes que decir si quieres Hacer copia de seguridad o Volver a una copia del archivo /etc/udev/rules.d/99-usb-serial.rules
+1) Hacer copia de seguridad
+2) Restaurar copia de seguridad
+3) Salir
+#?
 ```
 
 ## Autores ✒️
